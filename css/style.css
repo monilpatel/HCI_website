@@ -16,6 +16,7 @@ body{
     width: 100%;
     background-color: white;
     padding: 3%;
+    border-bottom: #d8e2f1 solid 3px;
 }
 .header .row{
     margin-top: 2em;
