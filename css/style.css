@@ -3,14 +3,14 @@ body{
     font-family: "Helvetica", "Arial", sans-serif;
     background: #f7f9fc;
 }
-#content, #phase_content{
+#content, .phase_content{
     margin: 0px auto;
     max-width: 50em;
     line-height: 1.5;
   padding: 3em 1em;
 }
 
-#phase_content{
+.phase_content{
     padding: 3em 2em;
     max-width: 70em;
     background: white;
