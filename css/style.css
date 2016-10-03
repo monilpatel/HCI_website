@@ -86,6 +86,12 @@ body{
 
 }
 
+.requirement_note{
+    background: #efefef;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
 
 /*CSS for phase 0*/
 #header_phase0{
@@ -107,4 +113,8 @@ body{
 
 .phase0_header{
     color: #28be9b;
+}
+
+img{
+    width: 90%;
 }
