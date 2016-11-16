@@ -145,7 +145,24 @@ img, #marvel{
     border: 5px #efefef solid;
 }
 
-      <style type="text/css">
+	table.tableizer-table {
+        margin-bottom: 3%;
+        margin-top: 3%;
+
+		font-size: 12px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tableizer-table th {
+		background-color: #104E8B; 
+		color: #FFF;
+		font-weight: bold;
+	}
 	table.tableizer-table {
 		font-size: 12px;
 		border: 1px solid #CCC; 
@@ -161,21 +178,10 @@ img, #marvel{
 		color: #FFF;
 		font-weight: bold;
 	}
-</style>
-<style type="text/css">
-	table.tableizer-table {
-		font-size: 12px;
-		border: 1px solid #CCC; 
-		font-family: Arial, Helvetica, sans-serif;
-	} 
-	.tableizer-table td {
-		padding: 4px;
-		margin: 3px;
-		border: 1px solid #CCC;
-	}
-	.tableizer-table th {
-		background-color: #104E8B; 
-		color: #FFF;
-		font-weight: bold;
-	}
-</style>
+
+#gt4{
+    width: 100%;
+}
+#lt4{
+    width: 100%;
+}
