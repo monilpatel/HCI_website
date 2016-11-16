@@ -6,8 +6,9 @@ body{
 #content, .phase_content{
     margin: 0px auto;
     max-width: 50em;
-    line-height: 1.5;
+    line-height: 1.5em;
   padding: 3em 1em;
+    position: relative;
 }
 
 .phase_content{
@@ -15,6 +16,10 @@ body{
     max-width: 70em;
     background: white;
     line-height: 200%
+}
+
+.phase_content p{
+    line-height: 1.5em;
 }
 
 
@@ -113,8 +118,21 @@ body{
 
 .phase0_header{
     color: #28be9b;
+    margin-top: 7%;
+/*    margin-bottom: 3%;*/
 }
 
 img{
     width: 90%;
+}
+
+#sketches{
+    width:50%;
+    margin-bottom: 3%;
+    margin-left: 20%;
+        
+}
+
+.rite_steps{
+    margin-top: 3%;
 }
