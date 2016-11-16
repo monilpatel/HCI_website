@@ -122,13 +122,14 @@ body{
 /*    margin-bottom: 3%;*/
 }
 
-img{
+img, #marvel{
     width: 90%;
+    margin-top: 5%;
 }
 
 #sketches{
     width:50%;
-    margin-bottom: 3%;
+    margin-bottom: 2%;
     margin-left: 20%;
         
 }
@@ -136,3 +137,45 @@ img{
 .rite_steps{
     margin-top: 3%;
 }
+
+.google_doc{
+    margin-bottom: 3%;
+    margin-top: 3%;
+
+    border: 5px #efefef solid;
+}
+
+      <style type="text/css">
+	table.tableizer-table {
+		font-size: 12px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tableizer-table th {
+		background-color: #104E8B; 
+		color: #FFF;
+		font-weight: bold;
+	}
+</style>
+<style type="text/css">
+	table.tableizer-table {
+		font-size: 12px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tableizer-table th {
+		background-color: #104E8B; 
+		color: #FFF;
+		font-weight: bold;
+	}
+</style>
